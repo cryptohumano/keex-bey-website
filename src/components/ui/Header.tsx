@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { NAVIGATION, SITE_CONFIG } from '@/lib/constants';
+import { NAVIGATION } from '@/lib/constants';
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -15,7 +15,7 @@ export function Header() {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center">
               <span className="text-2xl font-serif font-bold text-keex-green">
-                K'eex Bey
+                K&apos;eex Bey
               </span>
             </Link>
           </div>

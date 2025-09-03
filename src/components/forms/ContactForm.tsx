@@ -226,7 +226,7 @@ export function ContactForm({ source = 'contact' }: ContactFormProps) {
         </button>
 
         <p className="text-xs text-gray-500 text-center">
-          Al enviar este formulario, aceptas que K'eex Bey se ponga en contacto contigo 
+          Al enviar este formulario, aceptas que K&apos;eex Bey se ponga en contacto contigo 
           para agendar tu consulta gratuita.
         </p>
       </form>

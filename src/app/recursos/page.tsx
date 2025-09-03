@@ -5,8 +5,8 @@ import { Download, Lock, Clock, Users, FileText, Play, Calculator } from 'lucide
 
 export default function ResourcesPage() {
   const featuredResources = resources.filter(resource => resource.featured);
-  const gatedResources = resources.filter(resource => resource.isGated);
-  const freeResources = resources.filter(resource => !resource.isGated);
+  // const gatedResources = resources.filter(resource => resource.isGated);
+  // const freeResources = resources.filter(resource => !resource.isGated);
 
   return (
     <div className="min-h-screen bg-gray-50">

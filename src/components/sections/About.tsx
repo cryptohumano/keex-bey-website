@@ -70,11 +70,11 @@ export function About() {
                   {SITE_CONFIG.author}
                 </h3>
                 <p className="text-keex-terracotta font-medium mb-4">
-                  Fundadora de K'eex Bey
+                  Fundadora de K&apos;eex Bey
                 </p>
                 <p className="text-gray-600 text-sm">
-                  "Mi misión es ayudar a las organizaciones a crear culturas 
-                  que no solo sobrevivan al cambio, sino que prosperen en él."
+                  &ldquo;Mi misión es ayudar a las organizaciones a crear culturas 
+                  que no solo sobrevivan al cambio, sino que prosperen en él.&rdquo;
                 </p>
               </div>
             </div>

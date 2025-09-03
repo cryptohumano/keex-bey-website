@@ -1,7 +1,7 @@
 import { ContactForm } from '@/components/forms/ContactForm';
 import { NewsletterForm } from '@/components/forms/NewsletterForm';
 import { FAQ } from '@/components/ui/FAQ';
-import { SOCIAL_LINKS, SITE_CONFIG } from '@/lib/constants';
+import { SOCIAL_LINKS } from '@/lib/constants';
 
 const faqData = [
   {
@@ -38,7 +38,7 @@ export default function ContactPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-serif font-bold text-keex-green mb-6">
-              Contacta con K'eex Bey
+              Contacta con K&apos;eex Bey
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               ¿Listo para transformar la cultura de tu organización? 

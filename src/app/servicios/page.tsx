@@ -143,7 +143,7 @@ export default function ServicesPage() {
               Beneficios de Transformar tu Cultura
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Los resultados que puedes esperar al trabajar con K'eex Bey
+              Los resultados que puedes esperar al trabajar con K&apos;eex Bey
             </p>
           </div>
 

@@ -37,7 +37,7 @@ export function Testimonials() {
             Lo que dicen nuestros clientes
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Empresas que han transformado su cultura organizacional con K'eex Bey
+            Empresas que han transformado su cultura organizacional con K&apos;eex Bey
           </p>
         </div>
 
@@ -57,7 +57,7 @@ export function Testimonials() {
               
               {/* Content */}
               <blockquote className="text-gray-700 mb-6 italic">
-                "{testimonial.content}"
+                &ldquo;{testimonial.content}&rdquo;
               </blockquote>
               
               {/* Author */}

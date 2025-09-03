@@ -47,11 +47,11 @@ export default function AboutAliciaPage() {
                     {SITE_CONFIG.author}
                   </h3>
                   <p className="text-keex-beige font-medium mb-4">
-                    Fundadora de K'eex Bey
+                    Fundadora de K&apos;eex Bey
                   </p>
                   <p className="text-white/90 text-sm italic">
-                    "Mi misión es ayudar a las organizaciones a crear culturas 
-                    que no solo sobrevivan al cambio, sino que prosperen en él."
+                    &ldquo;Mi misión es ayudar a las organizaciones a crear culturas 
+                    que no solo sobrevivan al cambio, sino que prosperen en él.&rdquo;
                   </p>
                 </div>
               </div>
@@ -230,9 +230,9 @@ export default function AboutAliciaPage() {
           </div>
 
           <blockquote className="text-xl text-white/90 italic mb-8">
-            "La transformación cultural no es un destino, es un viaje continuo de mejora, 
+            &ldquo;La transformación cultural no es un destino, es un viaje continuo de mejora, 
             adaptación y crecimiento que requiere compromiso, paciencia y una visión clara 
-            del futuro que queremos construir."
+            del futuro que queremos construir.&rdquo;
           </blockquote>
           
           <p className="text-white/80">— Alicia Rodríguez Rosas</p>
